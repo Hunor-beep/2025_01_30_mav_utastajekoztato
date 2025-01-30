@@ -4,4 +4,8 @@ table {
     color: white; /* betüszín */
     font-family: 'Courier New', Courier, monospace; /* betűtípus */
     font-size: 30px; /* betűméret */
+}  
+
+td {
+    background-color: hsl(118, 82%, 24%);
 }
