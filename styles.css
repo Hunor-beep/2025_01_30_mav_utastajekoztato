@@ -1,0 +1,7 @@
+table {
+    border: 1px solid;
+    background-color: seagreen;
+    color: white; /* betüszín */
+    font-family: 'Courier New', Courier, monospace; /* betűtípus */
+    font-size: 30px; /* betűméret */
+}
