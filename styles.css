@@ -9,3 +9,12 @@ table {
 td {
     background-color: hsl(118, 82%, 24%);
 }
+
+#keses {
+    background-color: darkred;
+
+}
+
+.elso_oszlop{
+    background-color: blueviolet;
+}
