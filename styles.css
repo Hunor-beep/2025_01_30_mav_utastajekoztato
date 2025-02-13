@@ -1,9 +1,10 @@
 table {
-    border: 1px solid;
+    border: 10px black;
     background-color: seagreen;
     color: white; /* betüszín */
     font-family: 'Courier New', Courier, monospace; /* betűtípus */
     font-size: 30px; /* betűméret */
+    
 }  
 
 td {
@@ -16,5 +17,5 @@ td {
 }
 
 .elso_oszlop{
-    background-color: blueviolet;
+    background-color: rgba(23, 25, 117, 0.521);
 }
