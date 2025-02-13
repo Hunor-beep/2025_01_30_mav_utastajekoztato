@@ -1,0 +1,10 @@
+table{
+    border-width: 10px;
+    background-color: dodgerblue;
+    color: white;
+    border-style: solid;
+}   
+
+thead{
+    border-style: solid;
+}
