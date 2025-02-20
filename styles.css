@@ -19,3 +19,11 @@ td {
 .elso_oszlop{
     background-color: rgba(23, 25, 117, 0.521);
 }
+
+body{
+    background-color: black;
+}
+
+a{
+    background-color: white;
+}

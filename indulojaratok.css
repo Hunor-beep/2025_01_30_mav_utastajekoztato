@@ -3,8 +3,32 @@ table{
     background-color: dodgerblue;
     color: white;
     border-style: solid;
-}   
+} 
+
+th, td {
+    border: 1px solid;
+  }
 
 thead{
     border-style: solid;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    background-color: white;
+}
+
+tbody tr:nth-child(even) {
+    background-color: green;
+}
+
+th{
+    background-color: darkgreen;
+}
+
+#keso_indulo_vonat{
+    background-color: red;
 }
