@@ -1,15 +1,15 @@
 ## Ez a MÁV utastájékozatató tanuló verziója
 
-induló és érkezö vonatok
+   ⏰ induló és érkezö vonatok
 
 
-## Ez a mávnak az induló és érkező vonatoknak a demója
+## 👀   Ez a mávnak az induló és érkező vonatoknak a demója
 
-Ez a project egy egyszerű webes felületet biztosít a MÁV vonatindulások és érkzések megjelenítésére.
+ 🚉 Ez a project egy egyszerű webes felületet biztosít a MÁV vonatindulások és érkzések megjelenítésére.
 
-## linkje
+## 🖥️ Linkje
 
-[ Máv utastájékezotató] (https://hunor-beep.github.io/2025_01_30_mav_utastajekoztato/)
+🏗️ [ Máv utastájékezotató] (https://hunor-beep.github.io/2025_01_30_mav_utastajekoztato/)
 
 ```html
     <table>
@@ -33,3 +33,24 @@ Ez a project egy egyszerű webes felületet biztosít a MÁV vonatindulások és
               
         </thead>
 ```
+
+## 🎨 CSS Stílusok
+```css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+```
+
+### 🔧 Fejlesztési lehetőségek
+- [ ] 🔄 Dinamikus adatbetöltés API-n keresztül
+- [ ] 🔍 Keresési és szűrési lehetőségek
+- [x] 📱 Reszponzív megjelenítés mobileszközökre
+
